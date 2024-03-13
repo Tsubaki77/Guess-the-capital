@@ -1,5 +1,4 @@
-// Faire QCM pour deviner des capitales
-
+//Etapes
 // 1) On veut afficher aléatoirement le nom du pays + drapeau
 // 2) En dessous on veut un input pour insérer le nom de la capitale
 // 3) On veut un bouton pour valider
